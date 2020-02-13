@@ -1,8 +1,5 @@
 package com.test.hbase;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
 
 
 
