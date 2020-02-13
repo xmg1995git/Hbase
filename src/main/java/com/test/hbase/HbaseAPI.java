@@ -344,7 +344,7 @@ public class HbaseAPI {
 		table.close();
 	}
 	
-	
+
 	
 	
 
